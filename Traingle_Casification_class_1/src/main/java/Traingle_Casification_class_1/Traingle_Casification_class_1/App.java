@@ -34,9 +34,9 @@ class TriangleClassifier {
         }else {
         	
         	triangle=Triangle_Types.ERROR;
-        }
-
-	       
+        } 
+        
+        
 	    }
 
 	private static boolean isTriangle(int a, int b, int c) {
